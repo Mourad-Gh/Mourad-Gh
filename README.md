@@ -8,9 +8,9 @@
 [![](https://visitcount.itsvg.in/api?id=Mourad-Gh-code&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
-<h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>
+<h3 align="center">Future Developer --- Student at CMC RSK </h3>
 
-<p align="center">I’m a first-year Digital Development student at CMC RSK with a strong passion for emerging technologies and innovative problem-solving. I specialize in leveraging digital tools to design modern applications, interactive platforms, and impactful digital solutions tailored to today’s needs. Driven by curiosity and a desire to grow, I continuously work on enhancing my skills in programming and digital integration.</p>
+<p align="center">I’m a  Mobile APPs Development student at CMC RSK with a strong passion for emerging technologies and innovative problem-solving. I specialize in leveraging digital tools to design modern applications, interactive platforms, and impactful digital solutions tailored to today’s needs. Driven by curiosity and a desire to grow, I continuously work on enhancing my skills in programming and digital integration.</p>
 <div align="center">
   
 ![download](https://github.com/user-attachments/assets/9256b58b-b28d-4cec-aced-61f1edef5fd1)
@@ -37,9 +37,9 @@
 ---
 
 
-- 🌱 I’m currently learning flask, js,
-- 💬 Ask me about HTML, Css, Python, MySQL
-- 📫 How to reach me: **mouradghalloumi@gmail.com**
+-  I’m currently learning Kotlin, Flutter,
+  
+-  How to reach me: **mouradghalloumi@gmail.com**
 
 
 
@@ -49,10 +49,10 @@
 
 
 
- <h3>🧰 Languages and Tools</h3>
+ <h3> Languages and Tools</h3>
   <p align="center" style="padding-right:10px">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,py,flask,sqlite,git,github,linux,sublime,vscode,pycharm,c,postman,jquery,&theme=dark&perline=12"\>
+    <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,py,flask,sqlite,git,github,linux,sublime,vscode,pycharm,c,postman,jquery,kotlin,flutter,intellij,&theme=dark&perline=12"\>
   </p>
 
 
