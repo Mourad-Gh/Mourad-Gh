@@ -83,9 +83,9 @@
  </h3>
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=Mourad-Gh-code&theme=aura&hide_border=true&include_all_commits=false&count_private=true)<br/></br>
-![](https://nirzak-streak-stats.vercel.app/?user=Mourad-Gh-code&theme=aura&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourad-Gh-code&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mourad-Gh&theme=aura&hide_border=true&include_all_commits=false&count_private=true)<br/></br>
+![](https://nirzak-streak-stats.vercel.app/?user=Mourad-Gh&theme=aura&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mourad-Gh&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
